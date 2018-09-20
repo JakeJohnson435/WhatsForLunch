@@ -1,0 +1,20 @@
+body, html {
+    height: 100vh;
+    width: 100vw;
+ }
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    width: 100%
+}
+
+.choices {
+    width: 50%; display: inline-block; float: left;
+}
+
+.newRow {
+    clear: left;
+}

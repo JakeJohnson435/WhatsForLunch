@@ -3,11 +3,6 @@
 <head>
     <meta charset="utf-8">
     <title>What's For Lunch?</title>
-    <style>
-        .container {width: 100%}
-        .choices {width: 50%; display: inline-block; float: left;}
-        .newRow {clear: left;}
-    </style>
 </head>
 <body>
 
